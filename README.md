@@ -30,6 +30,10 @@
 - Socket.io
 - Socket.io-client
 - Express
--- We first create express app and sync with socket 
+## How it works
+ -  We first create express app and sync with socket
+ -  I set cors from where request will come like origin and method
+ - We have room any one connect with server will subscribe room1 and after that
+ - If anyone send message then it will send to others  
 
 
